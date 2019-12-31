@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "server issue",
+      "attention": false,
+      "tech": "Mohammad Arshad",
+      "date": "2019-12-29T05:18:17.707Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "printer issue in ODC 5",
+      "attention": false,
+      "tech": "Saurabh Tank",
+      "date": "2019-12-29T07:12:14.748Z"
+    },
+    {
+      "message": "backup issue",
+      "attention": true,
+      "tech": "Saurabh Tank",
+      "date": "2019-12-29T05:18:56.419Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Mohd",
+      "lastName": "Suhel"
+    },
+    {
+      "id": 2,
+      "firstName": "Mohammad",
+      "lastName": "Arshad"
+    },
+    {
+      "id": 3,
+      "firstName": "Saurabh",
+      "lastName": "Tank"
+    },
+    {
+      "firstName": "Mohd",
+      "lastName": "Imran",
+      "id": 4
+    }
+  ]
+}
